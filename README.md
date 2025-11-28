@@ -1,6 +1,6 @@
 <!--
 Copyright (C) Daniel Stenberg, <daniel@haxx.se>, et al.
-
+수정
 SPDX-License-Identifier: curl
 -->
 
